@@ -1,5 +1,3 @@
-
-
 import 'package:ds_session3/HomeScreen.dart';
 import 'package:ds_session3/ThemeChangerScreen.dart';
 import 'package:flutter/material.dart';
@@ -26,7 +24,7 @@ class MyApp extends StatelessWidget {
                   headline6: TextStyle(color: Colors.lime),
                   bodyText1: TextStyle(
                     color: Colors.deepOrangeAccent,
-                    fontSize: 30,
+                    fontSize: 31,
                   ),
                 ),
               ),
